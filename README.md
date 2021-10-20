@@ -1,2 +1,2 @@
 # homework_5
-<img src="./Lat_Wind_plot.png">
+![Lat Wind](https://github.com/tfgerling/homework_5/blob/master/Lat_Wind_plot.png)
